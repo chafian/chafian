@@ -40,6 +40,10 @@ My expertise spans backend engineering, full-stack development, software archite
 
 ### 🚀 Featured Open Source
 
+**[k8s-deployment-toolkit](https://github.com/chafian/k8s-deployment-toolkit)**
+
+Reusable Helm 3 chart with secure defaults, GitOps examples, and tested Nginx and Spring Boot deployments.
+
 **[phone-input-react-native](https://github.com/chafian/phone-input-react-native)**
 
 React Native development project.
