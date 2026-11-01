@@ -1,9 +1,34 @@
-
 # Hi, I'm Soufiane 👋
 
 ### Senior Full-Stack Software Engineer | Software Architect
 
-Building scalable SaaS platforms, cloud-native applications, and AI-powered solutions.
+I build SaaS APIs and cloud-native applications with **Java, Spring Boot, and Kubernetes**.
+Explore my open-source projects for tenant-aware backend development and repeatable application deployments.
+
+---
+
+### 🚀 Featured Open Source
+
+**[Spring Boot SaaS Starter](https://github.com/chafian/spring-boot-saas-starter)**  
+Build on a multi-tenant Java API with OIDC authentication, tenant roles, PostgreSQL
+row-level security for projects and audit events, and an example Projects API.
+The Docker Compose demo includes Keycloak and a smoke test for login, permissions,
+and tenant isolation.  
+[Try the local demo](https://github.com/chafian/spring-boot-saas-starter#run-the-complete-example) ·
+[Explore the API](https://github.com/chafian/spring-boot-saas-starter/blob/main/docs/api.md)
+
+**[Kubernetes Deployment Toolkit](https://github.com/chafian/k8s-deployment-toolkit)**  
+Deploy stateless HTTP applications with a reusable Helm 3 chart, non-root containers,
+health probes, and environment overlays. Explore Nginx, Spring Boot, and manual-sync
+Argo CD examples.  
+[Start with Nginx](https://github.com/chafian/k8s-deployment-toolkit#quick-start-nginx) ·
+[Try the Spring Boot demo](https://github.com/chafian/k8s-deployment-toolkit/blob/main/examples/spring-boot/README.md)
+
+**More projects:** [React Native phone input](https://github.com/chafian/phone-input-react-native) ·
+[IntelliJ developer tooling](https://github.com/chafian/smart-commit-intellij)
+
+Found a problem or an idea for an example? Open an issue in the relevant repository,
+or follow my GitHub profile for project updates.
 
 ---
 
@@ -34,27 +59,10 @@ My expertise spans backend engineering, full-stack development, software archite
 ![Microservices](https://img.shields.io/badge/Microservices-555555?style=for-the-badge)
 ![AI](https://img.shields.io/badge/AI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-
-
 ---
 
-### 🚀 Featured Open Source
-
-**[k8s-deployment-toolkit](https://github.com/chafian/k8s-deployment-toolkit)**
-
-Reusable Helm 3 chart with secure defaults, GitOps examples, and tested Nginx and Spring Boot deployments.
-
-**[phone-input-react-native](https://github.com/chafian/phone-input-react-native)**
-
-React Native development project.
-
-**[smart-commit-intellij](https://github.com/chafian/smart-commit-intellij)**
-
-IntelliJ developer tooling project.
-
----
-
-### 📊 GitHub Statistics
+<details>
+<summary>📊 GitHub statistics</summary>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chafian&show_icons=true&theme=tokyonight)
 
@@ -62,9 +70,9 @@ IntelliJ developer tooling project.
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=chafian&theme=tokyonight)
 
+</details>
+
 ---
-
-
 
 ### 🤝 Let's Connect
 
@@ -74,4 +82,3 @@ technical collaborations, and freelance projects.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soufiane-chahbouni-408465122/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chafian)
-
